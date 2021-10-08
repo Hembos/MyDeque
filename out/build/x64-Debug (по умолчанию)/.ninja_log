@@ -1,0 +1,15 @@
+# ninja log v5
+1	1325	655386124	MyDeque/CMakeFiles/MyDeque.dir/MyDeque.cpp.obj	fbb9d0ec3431fea8
+1326	1658	655386125	MyDeque/MyDeque.exe	5bd903027801f070
+1	14	0	clean	9992afb1f91dc381
+2	1343	655387222	MyDeque/CMakeFiles/MyDeque.dir/MyDeque.cpp.obj	fbb9d0ec3431fea8
+1345	1646	655387222	MyDeque/MyDeque.exe	5bd903027801f070
+1	747	655387277	MyDeque/CMakeFiles/MyDeque.dir/MyDeque.cpp.obj	fbb9d0ec3431fea8
+749	1010	655387277	MyDeque/MyDeque.exe	5bd903027801f070
+1	756	655387336	MyDeque/CMakeFiles/MyDeque.dir/MyDeque.cpp.obj	fbb9d0ec3431fea8
+758	1009	655387336	MyDeque/MyDeque.exe	5bd903027801f070
+0	667	655387614	MyDeque/CMakeFiles/MyDeque.dir/MyDeque.cpp.obj	fbb9d0ec3431fea8
+669	919	655387614	MyDeque/MyDeque.exe	5bd903027801f070
+0	14	0	clean	9992afb1f91dc381
+1	1010	655387867	MyDeque/CMakeFiles/MyDeque.dir/MyDeque.cpp.obj	fbb9d0ec3431fea8
+1017	1328	655387867	MyDeque/MyDeque.exe	5bd903027801f070
